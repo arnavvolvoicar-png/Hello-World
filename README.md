@@ -1,3 +1,3 @@
 # Hello-World
 
-oh wow version control.
+I like version control.
